@@ -132,6 +132,7 @@ todoController.addTodo('Aprender MVC');
 // Mostrar tareas
 todoController.getTodoList();
 ```
+## Diagrama
 
 <p align="center">
   <img src="./images/diagrama.png" alt="Descripción de la imagen">
