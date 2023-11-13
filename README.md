@@ -134,3 +134,7 @@ todoController.getTodoList();
 ```
 
 ![Diagrama MVC](./images/diagrama.png)
+
+<p align="center">
+  <img src="./images/diagrama.png" alt="Descripción de la imagen">
+</p>
