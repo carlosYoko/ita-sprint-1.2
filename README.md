@@ -1,6 +1,6 @@
 # MVC
 
-MVC (Modelo-Vista-Controlador) es un patrón de diseño creado para gestionar interfaces de usario, datos y lógica de negocio. Su principal característica es la de separar la lógica de negocios y su visualzación.
+MVC (Modelo-Vista-Controlador) es un patrón de diseño creado para gestionar interfaces de usario, datos y lógica de negocio. Su principal característica es la de separar la lógica de negocios y su visualzación, con esto se consigue una mejor arquitectura y mas robusta.
 
 - **Modelo:** Maneja datos y logica de negocios.
 - **Vista:** Se encarga del diseño y presentación.
@@ -132,6 +132,7 @@ todoController.addTodo('Aprender MVC');
 // Mostrar tareas
 todoController.getTodoList();
 ```
+
 ## Diagrama
 
 <p align="center">
